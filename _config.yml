@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ian Fletcher"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "4th year Economics PhD Student at the University of Wyoming. Interested in Behavioral, Experimental, and Environmental Economics."
   location         : "Wyoming"
   employer         : "University of Wyoming"
   uri              : # URL
