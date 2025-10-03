@@ -9,4 +9,4 @@ date: 2025-01-01
 
 Studies the management of capital in a business. Students learn how to use the time value of money to value cash flows and how to perform a financial valuation of a firm's assets and liabilities.
 
-[Download Syllabus (PDF)](https://fletcherian.github.io/files/FIN2100_Syllabus.pdf)
+[Download Syllabus(PDF)](https://fletcherian.github.io/files/FIN2100_Syllabus.pdf){: .btn}
