@@ -9,6 +9,4 @@ date: 2025-07-01
 
 Relative to a beginning course, this is a more advanced course on the theory of demand, production, cost, and supply; and the theory of the firm, including market price under monopoly, monopolistic competition, and oligopoly. Attention is given to the theory of factor prices and topics on welfare economics.
 
-<div align="center">
-[Download Syllabus (PDF)](https://fletcherian.github.io/files/ECON3020_Syllabus.pdf){: .btn .btn--primary target="_blank" rel="noopener" }
-</div>
+[Click me](http://www.google.com){: .btn}
