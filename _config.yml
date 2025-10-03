@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Fletcher_Headshot.png"
+  avatar           : "Fletcher_Headshot.jpg"
   name             : "Ian Fletcher"
   pronouns         : "he/him"  
   bio              : "4th year Economics PhD Student at the University of Wyoming. Interested in Behavioral, Experimental, and Environmental Economics."
