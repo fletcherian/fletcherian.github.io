@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-fin2100
 venue: "University of Wyoming, Department of Accounting & Finance"
-date: Spring 2025
+date: 2025-01
 ---
 
 Studies the management of capital in a business. Students learn how to use the time value of money to value cash flows and how to perform a financial valuation of a firm's assets and liabilities.
