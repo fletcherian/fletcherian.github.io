@@ -20,7 +20,9 @@ layout: default
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.date and (page.collection != 'publications' or (page.collection == 'publications' and page.category != 'conferences' and page.hide_publication_meta != true)) %}
+      <meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">
+    {% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
     <div class="page__inner-wrap">
@@ -34,12 +36,37 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
+        {%- comment -%}
+        TEACHING meta
+        {%- endcomment -%}
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+          <p>
+            {{ page.type }}
+            {%- if page.venue %}, <i>{{ page.venue }}</i>{% endif -%}
+            {%- if page.date %}{% if page.type or page.venue %}, {% endif %}{{ page.date | date: "%Y" }}{% endif -%}
+          </p>
+        
+        {%- comment -%}
+        PUBLICATIONS meta:
+        - Hide for WIP (category == 'conferences') or when hide_publication_meta: true
+        - Otherwise show "Published in ..." with safe comma handling
+        {%- endcomment -%}
+        {% elsif page.collection == 'publications' and page.category != 'conferences' and page.hide_publication_meta != true %}
+          {% if page.venue or page.date %}
+            <p>
+              {%- if page.venue %}Published in <i>{{ page.venue }}</i>{% endif -%}
+              {%- if page.date %}{% if page.venue %}, {% endif %}{{ page.date | date: "%Y" }}{% endif -%}
+            </p>
+          {% endif %}
+        
+        {%- comment -%}
+        Fallback (non-publications): show full Published date
+        {%- endcomment -%}
+        {% elsif page.date and page.collection != 'publications' and page.hide_publication_meta != true %}
+          <p class="page__date">
+            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+          </p>
         {% endif %}    
         </header>
       {% endunless %}
