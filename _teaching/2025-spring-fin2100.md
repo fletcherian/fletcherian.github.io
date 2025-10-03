@@ -2,7 +2,7 @@
 title: "Principles of Finance - FIN 2100"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Spring2025-Fin2100
+permalink: /teaching/2025-spring-fin2100
 venue: "University of Wyoming, Department of Accounting & Finance"
 date: Spring 2025
 ---
