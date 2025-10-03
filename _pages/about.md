@@ -15,3 +15,24 @@ I received two Bachelor's degrees in Mathematics (B.S.) and Economics (B.S) from
 In my free time, I run [Tele-Hope](https://www.tele-hope.org/), a community-building non-profit to end suicide in Wyoming. I also enjoy spending time with my dog, Wicket.
 
 You can contact me at ifletche\[at\]uwyo\[dot\]edu
+
+---
+
+## Research Papers
+
+<details>
+  <summary><strong>Paper Title 1</strong></summary>
+  <p>
+  This is the abstract for Paper 1. It explains the main question, method, and results
+  in a few sentences. You can also include links, e.g.
+  [Read the full paper](#).
+  </p>
+</details>
+
+<details>
+  <summary><strong>Paper Title 2</strong></summary>
+  <p>
+  This is the abstract for Paper 2. It’s hidden until expanded. You can style this
+  however you like with Markdown (lists, italics, bold, links, etc.).
+  </p>
+</details>
