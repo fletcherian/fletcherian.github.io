@@ -1,5 +1,5 @@
 ---
-title: "Principles of Finance - FIN 2100"
+title: "Intermediate Microeconomics - ECON 3020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-econ3020
