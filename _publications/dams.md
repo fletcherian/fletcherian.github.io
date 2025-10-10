@@ -9,4 +9,6 @@ date: 2025-10-10
 
 with [David Finnoff](https://www.uwyo.edu/business/about-us/directory/finnoff-david.html)
 
+_Work in Progress_
+
 Water management in the Western United States has become a critical resource allocation challenge as climate change and growing demand strain limited supply. The problem is further complicated due to the non-autonomous nature of natural processes, multiple dimensions of stakeholder preferences and climate change. We examine current management strategies by modeling the dynamic optimization problem facing a representative dam manager's allocation between upstream recreation and downstream flows in a non-autonomous seasonal setting. Applied to Jackson Lake in Grand Teton National Park, our analysis highlights the differences between actual and optimal management. We quantify the effects of hydrological shocks, provide an actionable framework providing decision support for policymakers and managers to adjust to future shocks, and outline how political pressures complicate decision-making.
