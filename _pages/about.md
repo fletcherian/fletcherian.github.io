@@ -19,6 +19,11 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
 You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV.pdf){: .btn}
 
 ---
+## Affiliations
+* Test
+* Test
+
+---
 
 ## Papers in Progress
 
