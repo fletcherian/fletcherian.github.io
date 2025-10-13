@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/csuuw-dams-2
 venue: "Colorado State University and University of Wyoming Joint Research Day"
-date: 2024-10-04
+date: 2024-03-22
 location: "Colorado State University"
 ---
 
