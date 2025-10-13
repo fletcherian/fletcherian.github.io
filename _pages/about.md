@@ -28,7 +28,7 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
   See more [here](https://fletcherian.github.io/publication/intang-risk-group)
   </p>
 </details>
-
+<br>
 <details>
   <summary><strong>Non-autonomous Management of Jackson Lake Dam Releases in Response to Climate Change</strong></summary>
   <p>
@@ -37,7 +37,7 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
   See more [here](https://fletcherian.github.io/publication/dams)
   </p>
 </details>
-
+<br>
 <details>
   <summary><strong>Individual Preference Elicitation Transforms ‘Social Carrying Capacity’ into a Pragmatic Management Tool</strong></summary>
   <p>
@@ -46,7 +46,7 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
   See more [here](https://fletcherian.github.io/publication/bears)
   </p>
 </details>
-
+<br>
 <details>
   <summary><strong>Experiencing carbon pricing</strong></summary>
   <p>
@@ -55,7 +55,7 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
   See more [here](https://fletcherian.github.io/publication/carbonpricing)
   </p>
 </details>
-
+<br>
 <details>
   <summary><strong>From Survival to Learning: The Evolution of Early Childhood Investment Over the Development Cycle</strong></summary>
   <p>
