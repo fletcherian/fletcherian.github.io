@@ -22,6 +22,13 @@ You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/f
 ## Reach Experiences and Affiliations
 * _Summer, 2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
 * _Summer, 2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
+---
+## Awards and Scholarships
+### Awards
+* _2024-2025_ - University of Wyoming College of Business, Department of Economics Outstanding PhD Teaching Student
+### Scholarships and Grants
+* _2025_ - University of Wyoming Department of Economics Charles "Chuck" Mason Graduate Research Award ($4,000)
+  - Project Title: Student Success and the Intangibility of Investment Returns: Experimental Evidence
 
 ---
 
