@@ -19,8 +19,8 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
 You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV.pdf){: .btn}
 
 ---
-## Affiliations
-* Test
+## Reach Experiences and Affiliations
+* _Summer, 2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
 * Test
 
 ---
