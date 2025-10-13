@@ -26,6 +26,7 @@ You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/f
 ## Awards and Scholarships
 ### Awards
 * _2024-2025_ - University of Wyoming College of Business, Department of Economics Outstanding PhD Teaching Student
+  
 ### Scholarships and Grants
 * _2025_ - University of Wyoming Department of Economics Charles "Chuck" Mason Graduate Research Award ($4,000)
   - Project Title: Student Success and the Intangibility of Investment Returns: Experimental Evidence
