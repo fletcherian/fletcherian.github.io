@@ -21,7 +21,7 @@ You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/f
 ---
 ## Reach Experiences and Affiliations
 * _Summer, 2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
-* Test
+* _Summer, 2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
 
 ---
 
