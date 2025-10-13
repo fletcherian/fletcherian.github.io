@@ -18,21 +18,50 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
 
 ---
 
-## Research Papers
+## Papers in Progress
 
 <details>
-  <summary><strong>Paper Title 1</strong></summary>
+  <summary><strong>Natural Disasters and the Intangibility of Risk Reduction: Experimental Evidence</strong></summary>
   <p>
-  This is the abstract for Paper 1. It explains the main question, method, and results
-  in a few sentences. You can also include links, e.g.
-  [Read the full paper](#).
+  The paper investigates how making disaster outcomes more tangible—by revealing whether losses were preventable—affects collective investment in risk mitigation. Using a theoretical model and a 2×2 lab experiment, it shows that when people can attribute outcomes to their own actions, they invest more in prevention after both success and failure, highlighting that causal feedback and observability are key to sustaining preventive behavior.
+
+  See more [here](https://fletcherian.github.io/publication/intang-risk-group)
   </p>
 </details>
 
 <details>
-  <summary><strong>Paper Title 2</strong></summary>
+  <summary><strong>Non-autonomous Management of Jackson Lake Dam Releases in Response to Climate Change</strong></summary>
   <p>
-  This is the abstract for Paper 2. It’s hidden until expanded. You can style this
-  however you like with Markdown (lists, italics, bold, links, etc.).
+  This paper models the dynamic optimization problem faced by dam managers balancing upstream recreation and downstream flows in a non-autonomous, seasonal environment. Using Jackson Lake as a case study, it compares actual versus optimal management, quantifies the impact of hydrological shocks, and offers a decision-support framework for adapting to future climate and political pressures.
+
+  See more [here](https://fletcherian.github.io/publication/dams)
   </p>
 </details>
+
+<details>
+  <summary><strong>Individual Preference Elicitation Transforms ‘Social Carrying Capacity’ into a Pragmatic Management Tool</strong></summary>
+  <p>
+  People are more tolerant of grizzly encounters than management rules, all, with significant local and regional variation. We use survey data and predictive mapping to document these misalignments between public preferences and federal risk standards.
+
+  See more [here](https://fletcherian.github.io/publication/bears)
+  </p>
+</details>
+
+<details>
+  <summary><strong>Experiencing carbon pricing</strong></summary>
+  <p>
+  Experience with Washington’s cap-and-invest program transformed initial opposition to carbon pricing into broader support for the policy. Voter data and survey evidence show that firsthand experience, rather than ideology, drove this shift—boosting approval specifically for the policy voters lived under.
+
+  See more [here](https://fletcherian.github.io/publication/carbonpricing)
+  </p>
+</details>
+
+<details>
+  <summary><strong>From Survival to Learning: The Evolution of Early Childhood Investment Over the Development Cycle</strong></summary>
+  <p>
+  The paper develops an economic model explaining how countries shift early childhood development investments from health to education as they grow richer and survival improves. Using global data, it finds that nations first focus on survival-related spending, then sharply increase education investment with rising income and health quality—highlighting the importance of sequencing and tailoring ECD policies to development stage rather than adopting uniform strategies.
+
+  See more [here](https://fletcherian.github.io/publication/ece-jel)
+  </p>
+</details>
+
