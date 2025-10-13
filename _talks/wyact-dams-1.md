@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/wyact-dams-1
 venue: "Wyoming Anticipating the Climate-Water Transition (WyACT) All Hands Meeting"
-date: 2024-09-27
+date: 2024-02-23
 location: "University of Wyoming"
 ---
 
