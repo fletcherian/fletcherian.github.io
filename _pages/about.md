@@ -16,6 +16,8 @@ In my free time, I run [Tele-Hope](https://www.tele-hope.org/), a community-buil
 
 You can contact me at ifletche\[at\]uwyo\[dot\]edu
 
+You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV.pdf){: .btn}
+
 ---
 
 ## Papers in Progress
