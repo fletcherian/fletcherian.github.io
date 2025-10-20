@@ -1,5 +1,5 @@
 ---
-title: "Experiencing carbon pricing"
+title: "Experiencing Carbon Pricing"
 collection: publications
 category: conferences
 permalink: /publication/carbonpricing
