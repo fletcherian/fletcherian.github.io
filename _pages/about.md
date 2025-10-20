@@ -65,7 +65,7 @@ You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/f
 </details>
 <br>
 <details>
-  <summary><strong>Experiencing carbon pricing</strong></summary>
+  <summary><strong>Experiencing Carbon Pricing</strong></summary>
   <p>
   Experience with Washington’s cap-and-invest program transformed initial opposition to carbon pricing into broader support for the policy. Voter data and survey evidence show that firsthand experience, rather than ideology, drove this shift—boosting approval specifically for the policy voters lived under.
   </p>
