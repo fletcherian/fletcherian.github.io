@@ -55,7 +55,7 @@ You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/f
 </details>
 <br>
 <details>
-  <summary><strong>Individual Preference Elicitation Transforms ‘Social Carrying Capacity’ into a Pragmatic Management Tool</strong></summary>
+  <summary><strong>The public overestimates and prefers greater tolerance for grizzly bear encounters than defined by the United States management guidelines</strong></summary>
   <p>
   People are more tolerant of grizzly encounters than management rules, all, with significant local and regional variation. We use survey data and predictive mapping to document these misalignments between public preferences and federal risk standards.
   </p>
