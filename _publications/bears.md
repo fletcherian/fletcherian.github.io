@@ -1,5 +1,5 @@
 ---
-title: "Individual Preference Elicitation Transforms 'Social Carrying Capacity' into a Pragmatic Management Tool"
+title: "The public overestimates and prefers greater tolerance for grizzly bear encounters than defined by the United States management guidelines"
 collection: publications
 category: conferences
 permalink: /publication/bears
