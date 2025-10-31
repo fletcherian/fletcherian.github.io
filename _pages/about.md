@@ -57,16 +57,6 @@ You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/f
 </details>
 <br>
 <details>
-  <summary><strong>The public overestimates and prefers greater tolerance for grizzly bear encounters than defined by the United States management guidelines</strong></summary>
-  <p>
-  People are more tolerant of grizzly encounters than management rules, all, with significant local and regional variation. We use survey data and predictive mapping to document these misalignments between public preferences and federal risk standards.
-  </p>
-  <p>
-    See more <a href="https://fletcherian.github.io/publication/bears" target="_blank" rel="noopener">here</a>.
-  </p>
-</details>
-<br>
-<details>
   <summary><strong>Experiencing Carbon Pricing</strong></summary>
   <p>
   Experience with Washington’s cap-and-invest program transformed initial opposition to carbon pricing into broader support for the policy. Voter data and survey evidence show that firsthand experience, rather than ideology, drove this shift—boosting approval specifically for the policy voters lived under.
