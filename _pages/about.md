@@ -8,11 +8,11 @@ redirect_from:
 ---
 ## About Me
 
-Welcome! I am a fourth-year economics PhD student at the University of Wyoming. My research focuses on how behavior adjusts when actions are not attributable to outcomes and preventive policies. I also enjoy topics related to the economics of education and dam management. I primarily use experimental methods to study topics in environmental economics, collective action problems, behavioral economics, and the economics of education.
+Welcome! I am a fourth-year PhD student in economics at the University of Wyoming. My research focuses on how behavior adjusts when actions are not attributable to outcomes and preventive policies. I also enjoy topics related to the economics of education and dam management. I primarily use experimental methods to study issues in environmental economics, collective action problems, behavioral economics, and the economics of education.
 
-I received two Bachelor's degrees in Mathematics (B.S.) and Economics (B.S) from the University of Wyoming in May 2022. I also received my Master's degree in Economics (M.S.) from the University of Wyoming in December 2024.
+I received two Bachelor's degrees in Mathematics (B.S.) and Economics (B.S) from the University of Wyoming in May 2022. I also received my Master of Science (M.S.) degree in Economics from the University of Wyoming in December 2024.
 
-In my free time, I run [Tele-Hope](https://www.tele-hope.org/), a community-building non-profit to end suicide in Wyoming. I also enjoy spending time with my dog, Wicket.
+In my free time, I run [Tele-Hope](https://www.tele-hope.org/), a community-building nonprofit organization dedicated to ending suicide in Wyoming. I also enjoy spending time with my dog, Wicket.
 
 You can contact me at ifletche\[at\]uwyo\[dot\]edu
 
@@ -22,6 +22,8 @@ You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/f
 * _Summer, 2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
 * _Summer, 2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
 
+### Service
+* _Spring 2025 to Present_ - Advisory member to the University of Wyoming's Wellness in the WEST Coalition. Wellness in the WEST is a campus-wide holistic approach to mental health care at the University of Wyoming.
 
 ## Awards and Scholarships
 ### Awards
