@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About Me
 
-Welcome! I am a fourth-year PhD student in economics at the University of Wyoming. My research focuses on how behavior adjusts when actions are not attributable to outcomes and preventive policies. I also enjoy topics related to the economics of education and dam management. I primarily use experimental methods to study issues in environmental economics, collective action problems, behavioral economics, and the economics of education.
+Welcome! I am an economics PhD candidate at the University of Wyoming. My research focuses on how behavior adjusts when actions are not attributable to outcomes and preventive policies. I also enjoy topics related to the economics of education and dam management. I primarily use experimental methods to study issues in environmental economics, collective action problems, behavioral economics, and the economics of education.
 
 I received two Bachelor's degrees in Mathematics (B.S.) and Economics (B.S) from the University of Wyoming in May 2022. I also received my Master of Science (M.S.) degree in Economics from the University of Wyoming in December 2024.
 
