@@ -16,7 +16,7 @@ In my free time, I run [Tele-Hope](https://www.tele-hope.org/), a community-buil
 
 You can contact me at ifletche\[at\]uwyo\[dot\]edu
 
-You can download my CV here: [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV.pdf){: .btn}
+You can download my CV here (Updated November 1, 2025): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV.pdf){: .btn}
 
 ## Research Experiences and Affiliations
 * _Summer, 2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
