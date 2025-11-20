@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/bears
 excerpt: 'People are more tolerant of grizzly encounters than management rules, all, with significant local and regional variation. We use survey data and predictive mapping to document these misalignments between public preferences and federal risk standards.'
-date: 2025-20-11
+date: '2025-20-11'
 venue: 'Nature Communications Earth & Environment'
 slidesurl: 'https://github.com/fletcherian/grizzly-risk'
 paperurl: 'https://www.nature.com/articles/s43247-025-02969-9'
