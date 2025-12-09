@@ -7,7 +7,7 @@ excerpt: 'The paper develops an economic model explaining how countries shift ea
 date: 2025-07-01
 ---
 
-with Faith Fatchen, Udidi Karna, Faisal Kattan, and [John List](https://voices.uchicago.edu/jlist/)
+with Faith Fatchen, Uditi Karna, Faisal Kattan, and [John List](https://voices.uchicago.edu/jlist/)
 
 _Work in Progress_
 
