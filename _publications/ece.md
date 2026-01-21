@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/ece
 excerpt: 'The paper develops an economic model explaining how countries shift early childhood development investments from health to education as they grow richer and survival improves. Using global data, it finds that nations first focus on survival-related spending, then sharply increase education investment with rising income and health quality—highlighting the importance of sequencing and tailoring ECD policies to development stage rather than adopting uniform strategies.'
-date: 2025-07-01
+date: 2026-01-12
 ---
 
 with Faith Fatchen, Uditi Karna, Faisal Kattan, and [John List](https://voices.uchicago.edu/jlist/)
