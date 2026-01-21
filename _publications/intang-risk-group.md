@@ -1,5 +1,5 @@
 ---
-title: "Natural Disasters and the Intangibility of Risk Reduction: Experimental Evidence"
+title: "Natural Disasters and the Intangibility of Risk Reduction: Theory and Experimental Evidence"
 collection: publications
 category: conferences
 permalink: /publication/intang-risk-group
