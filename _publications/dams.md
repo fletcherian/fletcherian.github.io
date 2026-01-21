@@ -7,7 +7,7 @@ excerpt: 'This paper models the dynamic optimization problem faced by dam manage
 date: 2025-10-10
 ---
 
-with [David Finnoff](https://www.uwyo.edu/business/about-us/directory/finnoff-david.html)
+with [Sean Bertalot](https://seanbertalot.weebly.com/) and David Finnoff
 
 _Work in Progress_
 
