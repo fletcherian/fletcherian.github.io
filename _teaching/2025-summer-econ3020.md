@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Microeconomics - ECON 3020"
+title: "Intermediate Microeconomics - ECON 3020 (Accelerated)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-econ3020
