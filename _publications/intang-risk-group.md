@@ -7,7 +7,7 @@ excerpt: 'The paper investigates how making disaster outcomes more tangible—by
 date: 2025-10-13
 ---
 
-with [Todd Cherry](https://tlcherry.weebly.com/) and [George Loewenstein](https://www.cmu.edu/dietrich/sds/people/faculty/george-loewenstein.html)
+with [Todd Cherry](https://tlcherry.weebly.com/) and George Loewenstein
 
 _Work in Progress_
 
