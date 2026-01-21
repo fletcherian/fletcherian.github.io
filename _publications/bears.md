@@ -8,7 +8,7 @@ date: '2025-11-20'
 venue: 'Nature Communications Earth & Environment'
 slidesurl: 'https://github.com/fletcherian/grizzly-risk'
 paperurl: 'https://www.nature.com/articles/s43247-025-02969-9'
-bibtexurl: 'http://academicpages.github.io/files/bears.bib'
+bibtexurl: 'http://fletcherian.github.io/files/bears.bib'
 citation: 'Hubbard, C. Fletcher, I.M., Cherry, T.L. <i>et al.</i> The public overestimates and prefers greater tolerance for grizzly bear encounters than defined by the United States management guidelines. <i>Commun Earth Environ</i> 6, 1022 (2025). https://doi.org/10.1038/s43247-025-02969-9'
 ---
 
