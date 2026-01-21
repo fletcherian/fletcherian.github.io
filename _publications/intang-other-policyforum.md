@@ -7,7 +7,7 @@ excerpt: 'Prevention policies systematically fail because their greatest success
 date: 2026-01-20
 ---
 
-with [Todd Cherry](https://tlcherry.weebly.com/) and George Loewenstein
+with [Todd Cherry](https://tlcherry.weebly.com/)
 
 _Work in Progress_
 
