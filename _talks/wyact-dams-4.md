@@ -8,4 +8,4 @@ date: 2025-01-24
 location: "University of Wyoming"
 ---
 
-Updating the larger WyACT grant team on the progress of the paper. The paper title has since been updated to [Non-autonomous Management of Jackson Lake Dam Releases in Response to Climate Change](https://fletcherian.github.io/publication/dams).
+Updating the larger WyACT grant team on the progress of the paper. The current version of the paper can be found [here](https://fletcherian.github.io/publication/dams).
