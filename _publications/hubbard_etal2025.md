@@ -2,7 +2,7 @@
 title: "The public overestimates and prefers greater tolerance for grizzly bear encounters than defined by the United States management guidelines."
 collection: publications
 category: manuscripts
-permalink: /publication/bears
+permalink: /publication/hubbard_etal2025
 excerpt: 'People are more tolerant of grizzly encounters than management rules, all, with significant local and regional variation. We use survey data and predictive mapping to document these misalignments between public preferences and federal risk standards.'
 date: '2025-11-20'
 venue: 'Nature Communications Earth & Environment'
