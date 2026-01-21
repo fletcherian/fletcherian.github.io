@@ -44,7 +44,7 @@ You can download my CV here (Updated November 1, 2025): [Download CV (PDF)](http
   Experience with Washington’s cap-and-invest program transformed initial opposition to carbon pricing into broader support for the policy. Voter data and survey evidence show that firsthand experience, rather than ideology, drove this shift—boosting approval specifically for the policy voters lived under.
   </p>
   <p>
-    See more <a href="https://fletcherian.github.io/publication/carbonpricing" target="_blank" rel="noopener">here</a>.
+    See more <a href="https://fletcherian.github.io/publication/carbon" target="_blank" rel="noopener">here</a>.
   </p>
 </details>
 <br>
@@ -54,17 +54,17 @@ You can download my CV here (Updated November 1, 2025): [Download CV (PDF)](http
   The paper develops an economic model explaining how countries shift early childhood development investments from health to education as they grow richer and survival improves. Using global data, it finds that nations first focus on survival-related spending, then sharply increase education investment with rising income and health quality—highlighting the importance of sequencing and tailoring ECD policies to the development stage rather than adopting uniform strategies.
   </p>
   <p>
-    See more <a href="https://fletcherian.github.io/publication/ece-jel" target="_blank" rel="noopener">here</a>.
+    See more <a href="https://fletcherian.github.io/publication/ece" target="_blank" rel="noopener">here</a>.
   </p>
 </details>
 <br>
 <details>
-  <summary><strong>Natural Disasters and the Intangibility of Risk Reduction: Experimental Evidence</strong></summary>
+  <summary><strong>Heterogeneous Risks and the Intangibility of Risk Reduction: Theory Experimental Evidence</strong></summary>
   <p>
-    The paper investigates how making disaster outcomes more tangible—by revealing whether losses were preventable—affects collective investment in risk mitigation. Using a theoretical model and a 2×2 lab experiment, it shows that when people can attribute outcomes to their own actions, they invest more in prevention after both success and failure, highlighting that causal feedback and observability are key to sustaining preventive behavior.
+    The paper investigates how making disaster outcomes more tangible—by revealing whether losses were preventable—affects individual investment in risk mitigation. Using a theoretical model and a 2×2 lab experiment, it shows that when people can attribute outcomes to their own actions, they invest more in prevention after both success and failure, highlighting that causal feedback and observability are key to sustaining preventive behavior.
   </p>
   <p>
-    See more <a href="https://fletcherian.github.io/publication/intang-risk-group" target="_blank" rel="noopener">here</a>.
+    See more <a href="https://fletcherian.github.io/publication/intang-risk-hetrisk" target="_blank" rel="noopener">here</a>.
   </p>
 </details>
 <br>
@@ -77,4 +77,24 @@ You can download my CV here (Updated November 1, 2025): [Download CV (PDF)](http
     See more <a href="https://fletcherian.github.io/publication/dams" target="_blank" rel="noopener">here</a>.
   </p>
 </details>
-
+<br>
+<details>
+  <summary><strong>Natural Disasters and the Intangibility of Risk Reduction: Theory and Experimental Evidence</strong></summary>
+  <p>
+    The paper investigates how making disaster outcomes more tangible—by revealing whether losses were preventable—affects collective investment in risk mitigation. Using a theoretical model and a 2×2 lab experiment, it shows that when people can attribute outcomes to their own actions, they invest more in prevention after both success and failure, highlighting that causal feedback and observability are key to sustaining preventive behavior.
+  </p>
+  <p>
+    See more <a href="https://fletcherian.github.io/publication/intang-risk-group" target="_blank" rel="noopener">here</a>.
+  </p>
+</details>
+<br>
+<details>
+  <summary><strong>The Curse of Intangibility: Why Prevention Policies Fail</strong></summary>
+  <p>
+    Prevention policies systematically fail because their greatest successes are invisible: avoided disasters, prevented diseases, and non-events that cannot be attributed to the policies that caused them. This paper argues that this “intangibility” problem is distinct from other behavioral biases and requires institutional reforms that reward policymakers for outcomes no one can see.
+  </p>
+  <p>
+    See more <a href="https://fletcherian.github.io/publication/intang-other-policyforum" target="_blank" rel="noopener">here</a>.
+  </p>
+</details>
+<br>
