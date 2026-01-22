@@ -23,6 +23,7 @@ You can download my CV here (Updated November 1, 2025): [Download CV (PDF)](http
 * _Summer, 2024_ - Summer Participant at [the Chicago School in Experimental Economics](https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-csee/)
 * _Summer, 2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
 * _Summer, 2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
+* _2022-2025_ - Member of the Wyoming Anticipating the Climate-Water Transition grant's research team
 
 ### Service
 * _Spring 2025 to Present_ - Advisory member to [the University of Wyoming's Wellness in the WEST Coalition](https://www.uwyo.edu/west/index.html). Wellness in the WEST is a campus-wide holistic approach to mental health care at the University of Wyoming.
