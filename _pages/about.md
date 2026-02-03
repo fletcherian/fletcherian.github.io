@@ -16,7 +16,7 @@ In my free time, I run [Tele-Hope](https://www.tele-hope.org/), a community-buil
 
 You can contact me at ifletche\[at\]uwyo\[dot\]edu
 
-You can download my CV here (Updated November 1, 2025): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-Feb26.pdf){: .btn}
+You can download my CV here (Updated February 1, 2026): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-Feb26.pdf){: .btn}
 
 ## Research Experiences and Affiliations
 * _2025-_ Associate Director of the [Teton Lab](https://www.teton-lab.org/) at the University of Wyoming
