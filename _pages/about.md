@@ -30,6 +30,7 @@ You can download my CV here (Updated February 1, 2026): [Download CV (PDF)](http
 
 ## Awards and Scholarships
 ### Awards
+* _2026_ - University of Wyoming College of Business, 3 Minute Thesis Winner
 * _2025-2026_ - University of Wyoming College of Business, Department of Economics Graduate Scholar of the Year
 * _2024-2025_ - University of Wyoming College of Business, Department of Economics Outstanding PhD Teaching Student
   
