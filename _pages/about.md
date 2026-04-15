@@ -19,6 +19,8 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
 You can download my CV here (Updated February 1, 2026): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-Feb26.pdf){: .btn}
 
 ## Research Experiences and Affiliations
+* _Summer, 2026_ - Summer Participant at the [Russell Sage Foundation Summer Institute in Behavioral Economics](https://laibson.scholars.harvard.edu/rsfcamp)
+* _Spring, 2026_ - Spring Participant at the [Appalachian Experimental & Environmental Economics Workshop](https://appexpecon26.weebly.com/)
 * _2025-_ Associate Director of the [Teton Lab](https://www.teton-lab.org/) at the University of Wyoming
 * _Summer, 2024_ - Summer Participant at [the Chicago School in Experimental Economics](https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-csee/)
 * _Summer, 2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
