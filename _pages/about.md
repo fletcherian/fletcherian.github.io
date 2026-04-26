@@ -8,15 +8,15 @@ redirect_from:
 ---
 ## About Me
 
-Welcome! I am an economics PhD candidate at the University of Wyoming. My research focuses on how behavior adjusts when actions are not attributable to outcomes and preventive policies. I also enjoy topics related to reservoir management and social carrying capacity. I primarily use experimental methods to study issues in environmental economics, behavioral economics, and the economics of education.
+Welcome! I am a PhD candidate in Economics at the University of Wyoming. My research examines how to improve public support for policies, particularly in settings where individual actions are not clearly attributable to outcomes. I focus on preventive policies and environmental management, including work on reservoir management and social carrying capacity. My approach primarily relies on experimental methods, with applications in environmental economics, behavioral economics, and the economics of education.
 
-I received two Bachelor's degrees in Mathematics (B.S.) and Economics (B.S) from the University of Wyoming in May 2022. I also received my Master of Science (M.S.) degree in Economics from the University of Wyoming in December 2024.
+I earned dual Bachelor of Science degrees in Mathematics and Economics from the University of Wyoming in May 2022 and a Master of Science (M.S.) in Economics from the University of Wyoming in December 2024.
 
-In my free time, I run [Tele-Hope](https://www.tele-hope.org/), a community-building nonprofit organization dedicated to ending suicide in Wyoming. I also enjoy spending time with my dog, Wicket.
+Outside of academia, I run [Tele-Hope](https://www.tele-hope.org/), a community-building nonprofit organization dedicated to suicide prevention in Wyoming. In my free time, I enjoy spending time with my dog, Wicket.
 
 You can contact me at ifletche\[at\]uwyo\[dot\]edu
 
-You can download my CV here (Updated February 1, 2026): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-Feb26.pdf){: .btn}
+You can download my CV here (Updated April 2026): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-Apr26.pdf){: .btn}
 
 ## Research Experiences and Affiliations
 * _Summer, 2026_ - Summer Participant at the [Russell Sage Foundation Summer Institute in Behavioral Economics](https://laibson.scholars.harvard.edu/rsfcamp)
