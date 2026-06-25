@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Adjustments of Jackson Lake Dam Releases in Response to Climate Change"
+title: "The Illusion of Suboptimal Dam Management: The Role of Ecology in Managed Systems"
 collection: talks
 type: "Talk"
 permalink: /talks/csuuw-dams-2
