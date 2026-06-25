@@ -2,7 +2,7 @@
 title: "Heterogeneous Risks and the Intangibility of Risk Reduction: Theory and Experimental Evidence"
 collection: talks
 type: "Talk"
-permalink: /talks/aere-intang-solo
+permalink: /talks/aeee-intang-solo
 venue: "2026 Appalachian Experimental & Environmental Economics Workshop"
 date: 2026-04-25
 location: "Boone, NC"
