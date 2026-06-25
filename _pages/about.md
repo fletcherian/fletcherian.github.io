@@ -16,7 +16,7 @@ Outside of academia, I run [Tele-Hope](https://www.tele-hope.org/), a community-
 
 You can contact me at ifletche\[at\]uwyo\[dot\]edu
 
-You can download my CV here (Updated April 2026): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-June26.pdf){: .btn}
+You can download my CV here (Updated June 2026): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-June26.pdf){: .btn}
 
 ## Research Experiences and Affiliations
 * _2026_ - Participant at the [Russell Sage Foundation Summer Institute in Behavioral Economics](https://laibson.scholars.harvard.edu/rsfcamp)
