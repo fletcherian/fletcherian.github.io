@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/aere-intang-group
 venue: "Association of Environmental and Resource Economists 2025 Summer Meeting"
-date: 2024-05-29
+date: 2025-05-29
 location: "Albuquerque, NM"
 ---
 
