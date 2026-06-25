@@ -20,12 +20,12 @@ You can download my CV here (Updated June 2026): [Download CV (PDF)](https://fle
 
 ## Research Experiences and Affiliations
 * _2026_ - Participant at the [Russell Sage Foundation Summer Institute in Behavioral Economics](https://laibson.scholars.harvard.edu/rsfcamp)
-* _2025-_ - Assistant Director of the [Teton Behavioral and Economic Science Lab](https://www.teton-lab.org/) at the University of Wyoming
+* _2025-_ - Assistant Director of the [Teton Behavioral and Economic Science Lab](https://thetetonlab.org/) at the University of Wyoming
 * _2024_ - Participant at [the Chicago School in Experimental Economics](https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-csee/)
 * _2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
 * _2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
 * _2022-2025_ - Research Assistant for Dr. David Finnoff on the Wyoming Anticipating the Climate-Water Transition NSF grant's research team
-* _2022-_ - Graduate Researcher at the [Teton Behavioral and Economic Science Lab](https://www.teton-lab.org/) at the University of Wyoming
+* _2022-_ - Graduate Researcher at the [Teton Behavioral and Economic Science Lab](https://thetetonlab.org/) at the University of Wyoming
 
 ## Awards and Scholarships
 ### Awards
@@ -82,7 +82,7 @@ You can download my CV here (Updated June 2026): [Download CV (PDF)](https://fle
 <br>
 
 <details>
-  <summary><strong>Non-autonomous Management of Dam Releases in Response to Climate Change</strong></summary>
+  <summary><strong>The Illusion of Suboptimal Dam Management: The Role of Ecology in Managed Systems</strong></summary>
   <p>
     with David Finnoff and Sean Bertalot
   </p>
