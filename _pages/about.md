@@ -113,7 +113,7 @@ You can download my CV here (Updated June 2026): [Download CV (PDF)](https://fle
     with Todd Cherry
   </p>
   <p>
-    Prevention policies systematically fail because their greatest successes are invisible: avoided disasters, prevented diseases, and non-events that cannot be attributed to the policies that caused them. This paper argues that this “intangibility” problem is distinct from other behavioral biases and requires institutional reforms that reward policymakers for outcomes no one can see.
+    Prevention policies that successfully avert disasters—epidemics, bridge collapses, catastrophic wildfires—rarely earn political credit because their success is the absence of an event, leaving no detectable outcome and no clear actor to reward. This paper develops a framework built on two dimensions, outcome detectability and cause–effect attribution, to explain this "curse of intangibility" and proposes institutional reforms—dedicated multi-year prevention budgets, risk-weighted leading indicators, and independent prevention scorekeeping—to make avoided harms visible, auditable, and rewardable.
   </p>
   <p>
     See more <a href="https://fletcherian.github.io/publication/intang-other-policyforum" target="_blank" rel="noopener">here</a>.
