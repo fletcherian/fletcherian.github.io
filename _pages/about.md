@@ -19,26 +19,32 @@ You can contact me at ifletche\[at\]uwyo\[dot\]edu
 You can download my CV here (Updated June 2026): [Download CV (PDF)](https://fletcherian.github.io/files/Fletcher-CV-June26.pdf){: .btn}
 
 ## Research Experiences and Affiliations
-* _2026_ - Participant at the [Russell Sage Foundation Summer Institute in Behavioral Economics](https://laibson.scholars.harvard.edu/rsfcamp)
-* _2025-_ - Assistant Director of the [Teton Behavioral and Economic Science Lab](https://thetetonlab.org/) at the University of Wyoming
-* _2024_ - Participant at [the Chicago School in Experimental Economics](https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-csee/)
-* _2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
-* _2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
-* _2022-2025_ - Research Assistant for Dr. David Finnoff on the Wyoming Anticipating the Climate-Water Transition NSF grant's research team
-* _2022-_ - Graduate Researcher at the [Teton Behavioral and Economic Science Lab](https://thetetonlab.org/) at the University of Wyoming
+* _Aug 2025 - Present_ - Assistant Director of the [Teton Behavioral and Economic Science Lab](https://thetetonlab.org/) at the University of Wyoming
+* _Jun 2026 - Jul 2026_ - Participant at the [Russell Sage Foundation Summer Institute in Behavioral Economics](https://laibson.scholars.harvard.edu/rsfcamp)
+* _Aug 2024_ - Participant at [the Chicago School in Experimental Economics](https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-csee/)
+* _Jun 2024 - Aug 2024_ - Visiting Doctoral Student at the University of Chicago with Dr. John List
+* _Jun 2023 - Aug 2023_ - Field researcher in Grand Teton National Park for the Teton Group at the University of Wyoming
+* _Dec 2022 - May 2025_ - Research Assistant for Dr. David Finnoff on the Wyoming Anticipating the Climate-Water Transition NSF grant's research team
+* _Dec 2022 - Present_ - Graduate Researcher at the [Teton Behavioral and Economic Science Lab](https://thetetonlab.org/) at the University of Wyoming
 
 ## Awards and Scholarships
 ### Awards
 * _2026_ - University of Wyoming College of Business, 3 Minute Thesis Winner
-* _2025-2026_ - University of Wyoming College of Business, Department of Economics Graduate Scholar of the Year
-* _2024-2025_ - University of Wyoming College of Business, Department of Economics Outstanding PhD Teaching Student
+* _2026_ - University of Wyoming College of Business, Department of Economics Graduate Scholar of the Year
+* _2025_ - University of Wyoming College of Business, Department of Economics Outstanding PhD Teaching Student
+* _2025_ - University of Wyoming College of Business, Charles ``Chuck'' Mason Graduate Research Award
 
-### Scholarships and Grants
-* _2025_ - University of Wyoming Department of Economics Charles "Chuck" Mason Graduate Research Award ($4,000)
-  - Project Title: Student Success and the Intangibility of Investment Returns: Experimental Evidence
+## Papers
+### Job Market Paper
+<details>
+  <p><strong>The Intangibility of Risk Reduction under Heterogeneous Risk: Theory and Experimental Evidence</strong></p>
+  <p>
+    Prevention is systematically underfunded relative to disaster response, even when it yields higher expected returns. Standard explanations (e.g., myopia, discounting, uncertainty, probabilistic reasoning) cannot account for why support erodes after an investment is made. We propose that prevention is cursed by intangibility: its successes are either undetectable or cannot be attributed to the actions that produced them. We formalize this in a model in which the perceived efficacy of a risk-reducing investment updates on realized outcomes rather than on their sources, and show that this generates a two-sided prediction. Following an unattributable no-disaster, individuals overinvest; following an unattributable loss, individuals underinvest. We test the model in a $2\times2$ laboratory experiment in which individuals make repeated investment decisions against both exogenous and endogenous risks, varying baseline exogenous risk (high or low) and the tangibility of the outcome (whether the source of a realized outcome is revealed); outcome detectability is held fixed so that only attributability varies. Both predictions hold, and the post-disaster decline is concentrated among participants facing low exogenous risk, for whom a realized loss is more likely to implicate their own investment. Because probabilities are fixed across treatments, risk aversion, ambiguity aversion, and probability weighting cannot generate this pattern; the difference operates through failed causal attribution rather than risk preferences. The curse is therefore structural rather than a communication failure, and sustaining support for prevention may require rewarding predicted rather than realized outcomes.
+  </p>
+</details>
 
-## Papers in Progress
 
+### Papers in Progress
 <details>
   <summary><strong>Experiencing Carbon Pricing (NBER Working Paper #34559)</strong></summary>
   <p>
@@ -68,21 +74,7 @@ You can download my CV here (Updated June 2026): [Download CV (PDF)](https://fle
 <br>
 
 <details>
-  <summary><strong>Heterogeneous Risks and the Intangibility of Risk Reduction: Theory Experimental Evidence</strong></summary>
-  <p>
-    with Todd Cherry and George Loewenstein
-  </p>
-  <p>
-    The paper investigates how making disaster outcomes more tangible—by revealing whether losses were preventable—affects individual investment in risk mitigation. Using a theoretical model and a 2×2 lab experiment, it shows that when people can attribute outcomes to their own actions, they invest more in prevention after both success and failure, highlighting that causal feedback and observability are key to sustaining preventive behavior.
-  </p>
-  <p>
-    See more <a href="https://fletcherian.github.io/publication/intang-risk-hetrisk" target="_blank" rel="noopener">here</a>.
-  </p>
-</details>
-<br>
-
-<details>
-  <summary><strong>The Illusion of Suboptimal Dam Management: The Role of Ecology in Managed Systems</strong></summary>
+  <summary><strong>Recovering Non-Autonomous Ecological Values from Observed Management</strong></summary>
   <p>
     with David Finnoff and Sean Bertalot
   </p>
