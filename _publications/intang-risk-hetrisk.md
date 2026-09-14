@@ -1,5 +1,5 @@
 ---
-title: "Job Market Paper: The Intangibility of Risk Reduction under Heterogeneous Risk: Theory and Experimental Evidence"
+title: "The Intangibility of Risk Reduction under Heterogeneous Risk: Theory and Experimental Evidence"
 collection: publications
 category: conferences
 permalink: /publication/intang-risk-hetrisk
