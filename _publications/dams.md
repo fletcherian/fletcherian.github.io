@@ -1,5 +1,5 @@
 ---
-title: "Recovering Non-Autonomous Ecological Values from Observed Management"
+title: "Recovering Ecological Value from Observed Management: A Non-Autonomous Model of Jackson Lake"
 collection: publications
 category: conferences
 permalink: /publication/dams
@@ -7,8 +7,8 @@ excerpt: 'This paper develops a seasonal dam-management model for Jackson Lake t
 date: 2025-10-10
 ---
 
-with David Finnoff and [Sean Bertalot](https://seanbertalot.weebly.com/)
+with David Finnoff and [Sean K. Bertalot](https://seanbertalot.weebly.com/)
 
-_Work in Progress_
+_Under Review at Land Economics_
 
-Reservoir managers balance economic demands, institutional constraints, and ecological processes, yet the relative importance of these forces remains uncertain. Using Jackson Lake in Grand Teton National Park, we empirically parameterize a seasonal optimal control model with hydrological and economic data and compare predicted storage and release paths with observed management. We then recover the ecological value implied by deviations from ‘economic management.’ These deviations closely follow gross primary production, and incorporating ecological processes substantially improves model fit. The results show how empirical parameterization can identify unpriced ecological services and provide practical guidance for evaluating reservoir operations and policy design choices.
+Reservoir managers balance competing economic demands, institutional constraints, and ecological processes, but how these forces jointly determine release decisions is unclear. Focusing on Jackson Lake, we develop a seasonal optimal control model and compare predicted storage and release paths with observed management. We first estimate an economic model using hydrological and economic data, then recover the ecological value implied by the deviations from the observed management. These deviations follow gross primary production, and incorporating ecological processes substantially improves the model’s fit to observed management. Accounting for unpriced ecological services may therefore be important for evaluating reservoir policy and management decisions.
