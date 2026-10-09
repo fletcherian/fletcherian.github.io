@@ -1,5 +1,5 @@
 ---
-title: "The Curse of Intangibility: Political Invisibility of Prevention"
+title: "The Curse of Intangibility in Risk Reduction"
 collection: publications
 category: conferences
 permalink: /publication/intang-other-policyforum
@@ -7,8 +7,8 @@ excerpt: 'Prevention policies that successfully avert disasters—epidemics, bri
 date: 2026-01-20
 ---
 
-with [Todd Cherry](https://tlcherry.weebly.com/)
+with Todd L. Cherry, George F. Loewenstein, Mary F. Evans, Paul J. Ferraro, David Finnoff, Jacob P. Hochard, Bryan Leonard, Peter Martinsson, James J. Murphy, Jason F. Shogren, Leaf Van Boven, Daan van Soest, and Christian Vossler
 
-_Work in Progress_
+_Under Review at Science (Policy Forum)_
 
-Policies that protect people and property often succeed precisely when nothing happens, while disaster response succeeds only after prevention fails. Because successful prevention leaves no visible trace, it is systematically undervalued—even when risks are well understood and cost-benefit evidence is strong. We call this the "curse of intangibility" and argue it stems from two distinct failures: outcomes that go undetected, and outcomes that cannot be attributed to a specific policy, agency, or official. A simple typology built on these dimensions identifies which risk-reduction policies face the steepest political penalty, with severity-reducing interventions (such as wildfire fuel treatments) the hardest hit, since the disaster the public sees masks the worse one that was averted. Distinguishing intangibility from related concepts like risk, uncertainty, and time discounting, we show why better information alone cannot fix the problem, and propose institutional reforms to make avoided harms visible enough to count and reward.
+Policies that protect people and property often succeed precisely when nothing happens, while disaster response succeeds only after prevention fails. Because successful prevention leaves no visible trace, people systematically undervalue it—even when risks are well understood and cost-benefit evidence is strong. We call this the "curse of intangibility" and argue it stems from two distinct failures: outcomes that go undetected, and outcomes that cannot be attributed to a specific policy, agency, or official. A simple typology built on these dimensions identifies which risk-reduction policies face the steepest political penalty, with severity-reducing interventions (such as wildfire fuel treatments) the hardest hit, since the disaster the public sees masks the worse one that was averted. Distinguishing intangibility from related concepts like risk, uncertainty, and time discounting, we show why better information alone cannot fix the problem, and propose institutional reforms to make avoided harms visible enough to count and reward.
