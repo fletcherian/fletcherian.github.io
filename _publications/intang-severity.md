@@ -1,5 +1,5 @@
 ---
-title: "Education Spending and the Intangibility of Investing: Theory and Experimental Evidence"
+title: "Uncertain Efficacy and the Intangibility of Risk Reduction: Theory and Experimental Evidence"
 collection: publications
 category: conferences
 permalink: /publication/intang-severity
