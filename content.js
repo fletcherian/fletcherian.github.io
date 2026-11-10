@@ -245,7 +245,7 @@ const content = {
   assets: {
     profileImage: '/hiking.JPG',
     profileImageAlt: 'Ian Fletcher profile photo',
-    socialImage: '/profile-social.jpg',
+    socialImage: '/hiking.JPG',
     profileImageSizes: '(max-width: 768px) 144px, 192px',
     cvPdf: '/files/Fletcher-Oct26.pdf',
     icon: '/favicon.ico',
