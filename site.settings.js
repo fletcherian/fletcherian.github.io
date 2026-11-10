@@ -266,7 +266,7 @@ const siteSettings = {
     sidebar: 'w-full lg:w-1/4 flex flex-col items-center',
     contentColumn: 'w-full lg:w-3/4',
     profileImageFrame: [
-      'w-36 h-36 md:w-48 md:h-48 relative rounded-full overflow-hidden',
+      'w-full max-w-sm aspect-[4/3] relative rounded-2xl overflow-hidden',
       'shadow-[0_4px_16px_rgba(0,0,0,0.2)] dark:shadow-[0_4px_16px_rgba(255,255,255,0.15)]',
       'hover:shadow-[0_12px_28px_rgba(0,0,0,0.25)] dark:hover:shadow-[0_12px_28px_rgba(255,255,255,0.2)]',
       'transform transition-all duration-300 hover:-translate-y-4 mb-6',
