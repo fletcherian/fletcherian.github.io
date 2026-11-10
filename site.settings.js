@@ -263,10 +263,10 @@ const siteSettings = {
     page: 'max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 sm:pt-8 pb-8',
     homePage: 'flex flex-col space-y-8 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8',
     homeGrid: 'flex flex-col lg:flex-row gap-6 lg:gap-16 pt-6 sm:pt-8 lg:pt-12',
-    sidebar: 'w-full lg:w-1/4 flex flex-col items-center',
-    contentColumn: 'w-full lg:w-3/4',
+    sidebar: 'w-full lg:w-1/3 flex flex-col items-center',
+    contentColumn: 'w-full lg:w-2/3',
     profileImageFrame: [
-      'w-full max-w-sm aspect-[4/3] relative rounded-2xl overflow-hidden',
+      'w-full max-w-md aspect-[4/3] relative rounded-2xl overflow-hidden',
       'shadow-[0_4px_16px_rgba(0,0,0,0.2)] dark:shadow-[0_4px_16px_rgba(255,255,255,0.15)]',
       'hover:shadow-[0_12px_28px_rgba(0,0,0,0.25)] dark:hover:shadow-[0_12px_28px_rgba(255,255,255,0.2)]',
       'transform transition-all duration-300 hover:-translate-y-4 mb-6',
