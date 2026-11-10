@@ -272,7 +272,7 @@ const siteSettings = {
       'transform transition-all duration-300 hover:-translate-y-4 mb-6',
     ].join(' '),
     profileImage: 'object-cover select-none pointer-events-none',
-    profileImageGuard: 'absolute inset-0 z-10 rounded-full select-none',
+    profileImageGuard: 'absolute inset-0 z-10 rounded-2xl select-none',
     sidebarDivider: 'w-32 h-px bg-outline-variant dark:bg-dark-outline-variant mt-4 mb-2',
 
     cardHeader: 'mb-3 flex flex-wrap items-center justify-between gap-x-3 gap-y-1 [&>h2]:mb-0',
