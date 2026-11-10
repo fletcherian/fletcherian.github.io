@@ -46,14 +46,9 @@ const content = {
       [
         'Welcome! I am a PhD candidate in Economics at the ',
         { text: 'University of Wyoming', href: 'https://www.uwyo.edu/econ/' },
-        ' and expect to complete my PhD in May 2027. I am an applied microeconomist at the intersection of behavioral, environmental, and public economics. I use theory, laboratory experiments, simulation, and applied econometrics to study how people evaluate individual and government investment when payoffs are uncertain, delayed, or hard to see. Most of my work focuses on prevention policies, especially why policies that mitigate natural disasters fail to garner public support even when they succeed.',
+        ' and Assistant Director of the Teton Behavioral and Economic Science Laboratory. I received my B.S. in Mathematics and Economics (2022) and M.S. in Economics (2024) from the University of Wyoming, was a visiting doctoral student at the University of Chicago, and expect to complete my PhD in May 2027.',
       ],
-      'I earned dual Bachelor of Science degrees in Mathematics and Economics from the University of Wyoming in May 2022 and a Master of Science in Economics in May 2024.',
-      [
-        'Outside of academia, I run ',
-        { text: 'Tele-Hope', href: 'https://www.tele-hope.org/' },
-        ', a community-building nonprofit organization dedicated to suicide prevention in Wyoming. In my free time, I enjoy spending time with my dog, Wicket.',
-      ],
+      'I am an applied microeconomist with interests in behavioral, experimental, environmental, and public economics. My research studies how people value investments whose payoffs are uncertain, delayed, or hard to see, with a focus on why prevention policies struggle to earn public support even when they succeed.',
     ],
   },
 
