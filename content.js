@@ -184,6 +184,7 @@ const content = {
   // ── Talks ────────────────────────────────────────────────────────────────
   // Newest first. paper (optional) is a paper slug above; it links the talk to that paper.
   talks: [
+    { date: '2026-11-09', title: 'Heterogeneous Risks and the Intangibility of Risk Reduction: Theory and Experimental Evidence', venue: 'Workshop in Behavioral and Experimental Economics - Buenos Aires (WBEE-BA)', location: 'Buenos Aires, CABA, Argentina', paper: 'intang-risk-hetrisk' },
     { date: '2026-04-25', title: 'Heterogeneous Risks and the Intangibility of Risk Reduction: Theory and Experimental Evidence', venue: '2026 Appalachian Experimental & Environmental Economics Workshop', location: 'Boone, NC', paper: 'intang-risk-hetrisk' },
     { date: '2025-05-29', title: 'Natural Disasters and the Intangibility of Risk Reduction: Experimental Evidence', venue: 'Association of Environmental and Resource Economists 2025 Summer Meeting', location: 'Albuquerque, NM', paper: 'intang-risk-group' },
     { date: '2025-01-24', title: 'The Illusion of Suboptimal Dam Management: The Role of Ecology in Managed Systems', venue: 'Wyoming Anticipating the Climate-Water Transition (WyACT) All Hands Meeting', location: 'University of Wyoming', paper: 'dams' },
