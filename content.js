@@ -242,7 +242,7 @@ const content = {
 
   // ── Assets ───────────────────────────────────────────────────────────────
   assets: {
-    profileImage: '/hiking.jpg',
+    profileImage: '/hiking.JPG',
     profileImageAlt: 'Ian Fletcher profile photo',
     socialImage: '/profile-social.jpg',
     profileImageSizes: '(max-width: 768px) 144px, 192px',
