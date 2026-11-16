@@ -124,7 +124,7 @@ const content = {
         'Stefano Carattini': 'https://sites.google.com/site/stefanocarattini/',
         'Chad Kendall': 'https://sites.google.com/site/chadwkendall/home',
       },
-      note: 'Under review at the Journal of the European Economic Association',
+      note: 'Under consideration at the Journal of the European Economic Association',
       date: '2025-10',
       links: [{ label: 'NBER WP #34559', href: 'https://www.nber.org/papers/w34559' }],
       abstract: 'Many socially desirable policies are not implemented because of their ex-ante unpopularity, but this unpopularity may be overcome through experience with the policy. In this paper, we examine how opposition to carbon pricing in the state of Washington turned into support after voters experienced a cap-and-trade policy with revenues earmarked for environmental purposes -- "cap-and-invest." Analyzing voting behavior at the census block group level, we observe that support varies by political affiliation as expected, but experience consistently increases support across the board. Using a proprietary survey, we further show that the higher support among voters in Washington state is specific to the cap-and-invest policy they experienced; support for carbon pricing, or climate policies more generally, is unaffected.',
